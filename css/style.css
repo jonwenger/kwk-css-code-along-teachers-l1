@@ -1,6 +1,10 @@
 /* add CSS class and element and selectors here */
 
-
+body {
+  font-size: 300%;
+  background-color: blue
+  
+}
 
 
 
