@@ -1,1 +1,26 @@
 /* add CSS class and element and selectors here */
+
+body {
+      background-color: #C0DAF2;
+      font-size: 100%;
+    }
+    
+.jonSampleClass {
+  font-family: courier;
+  font-size: 500%;
+  border: 10px dotted red;
+  background-color: green;
+  letter-spacing: 10px
+  
+}
+     .jonExampleClass {
+       
+    font-size: 300%;
+      background-color: white;
+      font-family: courier;
+      border: 1px dotted red;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      transition: rotate(-30)deg;
+      text-shadow: length
+    }
