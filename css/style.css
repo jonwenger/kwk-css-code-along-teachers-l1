@@ -5,7 +5,9 @@ body {
 }
 
 .jonSampleClass{
-  
+  font-size: 200%;
+  border: 10px dotted red;
+  background-color: yellow;
 }
 
 
